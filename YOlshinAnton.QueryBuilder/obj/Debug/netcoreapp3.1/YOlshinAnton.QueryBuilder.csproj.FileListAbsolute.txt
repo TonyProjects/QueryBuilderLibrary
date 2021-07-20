@@ -1,0 +1,13 @@
+E:\Anton\Net\YOlshinAnton.QueryBuilder\YOlshinAnton.QueryBuilder\bin\Debug\netcoreapp3.1\YOlshinAnton.QueryBuilder.exe
+E:\Anton\Net\YOlshinAnton.QueryBuilder\YOlshinAnton.QueryBuilder\bin\Debug\netcoreapp3.1\YOlshinAnton.QueryBuilder.deps.json
+E:\Anton\Net\YOlshinAnton.QueryBuilder\YOlshinAnton.QueryBuilder\bin\Debug\netcoreapp3.1\YOlshinAnton.QueryBuilder.runtimeconfig.json
+E:\Anton\Net\YOlshinAnton.QueryBuilder\YOlshinAnton.QueryBuilder\bin\Debug\netcoreapp3.1\YOlshinAnton.QueryBuilder.runtimeconfig.dev.json
+E:\Anton\Net\YOlshinAnton.QueryBuilder\YOlshinAnton.QueryBuilder\bin\Debug\netcoreapp3.1\YOlshinAnton.QueryBuilder.dll
+E:\Anton\Net\YOlshinAnton.QueryBuilder\YOlshinAnton.QueryBuilder\bin\Debug\netcoreapp3.1\YOlshinAnton.QueryBuilder.pdb
+E:\Anton\Net\YOlshinAnton.QueryBuilder\YOlshinAnton.QueryBuilder\obj\Debug\netcoreapp3.1\YOlshinAnton.QueryBuilder.csproj.AssemblyReference.cache
+E:\Anton\Net\YOlshinAnton.QueryBuilder\YOlshinAnton.QueryBuilder\obj\Debug\netcoreapp3.1\YOlshinAnton.QueryBuilder.AssemblyInfoInputs.cache
+E:\Anton\Net\YOlshinAnton.QueryBuilder\YOlshinAnton.QueryBuilder\obj\Debug\netcoreapp3.1\YOlshinAnton.QueryBuilder.AssemblyInfo.cs
+E:\Anton\Net\YOlshinAnton.QueryBuilder\YOlshinAnton.QueryBuilder\obj\Debug\netcoreapp3.1\YOlshinAnton.QueryBuilder.csproj.CoreCompileInputs.cache
+E:\Anton\Net\YOlshinAnton.QueryBuilder\YOlshinAnton.QueryBuilder\obj\Debug\netcoreapp3.1\YOlshinAnton.QueryBuilder.dll
+E:\Anton\Net\YOlshinAnton.QueryBuilder\YOlshinAnton.QueryBuilder\obj\Debug\netcoreapp3.1\YOlshinAnton.QueryBuilder.pdb
+E:\Anton\Net\YOlshinAnton.QueryBuilder\YOlshinAnton.QueryBuilder\obj\Debug\netcoreapp3.1\YOlshinAnton.QueryBuilder.genruntimeconfig.cache
